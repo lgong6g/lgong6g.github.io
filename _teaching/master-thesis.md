@@ -4,7 +4,7 @@ collection: teaching
 type: "Master thesis supervision"
 permalink: /teaching/2024
 venue: "Universitäts-Sternwarte München"
-date: started from 2023.12
+date: 2023-12
 location: "Munich, Germany"
 ---
 
