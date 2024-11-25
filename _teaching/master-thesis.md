@@ -2,9 +2,9 @@
 title: "Cosmological Parameter Constraints with Weak Lensing Scattering Transform"
 collection: teaching
 type: "Master thesis supervision"
-permalink: /teaching/2023-12
+permalink: /teaching/2023-12-01
 venue: "Universitäts-Sternwarte München"
-date: 2023-12
+date: 2023-12-01
 location: "Munich, Germany"
 ---
 
