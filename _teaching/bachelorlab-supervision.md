@@ -2,7 +2,7 @@
 title: "Diffraction (Beugung)"
 collection: teaching
 type: "Bachelor program lab supervision"
-permalink: /teaching/beugung
+permalink: /teaching/2021
 venue: "Universitäts-Sternwarte München"
 date: 2021
 location: "Munich, Germany"
