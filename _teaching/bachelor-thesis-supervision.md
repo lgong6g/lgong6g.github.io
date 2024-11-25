@@ -2,7 +2,7 @@
 title: "Fast Cosmological Parameter Constraints with Estimated Likelihood using Deep Learning"
 collection: teaching
 type: "Bachelor thesis supervision"
-permalink: /teaching/2022.7
+permalink: /teaching/2022-07
 venue: "Universitäts-Sternwarte München"
 date: 2022-07
 location: "Munich, Germany"
