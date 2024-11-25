@@ -2,7 +2,7 @@
 title: "Weak gravitational lensing: The 2-point correlation function of cosmic shear"
 collection: teaching
 type: "Astrophysical lab manual design"
-permalink: /teaching/astrolab
+permalink: /teaching/2022
 venue: "Universitäts-Sternwarte München"
 date: 2022
 location: "Munich, Germany"
