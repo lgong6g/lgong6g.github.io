@@ -4,7 +4,7 @@ collection: teaching
 type: "Astrophysical lab manual design"
 permalink: /teaching/2022
 venue: "Universitäts-Sternwarte München"
-date: 2022
+date: 2022-08-10
 location: "Munich, Germany"
 ---
 
