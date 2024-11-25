@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor thesis supervision"
 permalink: /teaching/2022.7
 venue: "Universitäts-Sternwarte München"
-date: 2022
+date: 2022-07
 location: "Munich, Germany"
 ---
 
