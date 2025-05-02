@@ -1,11 +1,11 @@
 ---
-title: "Cosmological Parameter Constraints with Weak Lensing Scattering Transform"
+title: "Weak lensing cosmology with scattering transform coefficients"
 collection: teaching
 type: "Master thesis supervision"
-permalink: /teaching/2023-12-01
+permalink: /teaching/2024-12-01
 venue: "Universitäts-Sternwarte München"
-date: 2023-12-01
+date: 2024-12-01
 location: "Munich, Germany"
 ---
 
-I supervised a master student, Sijin Chen, on his master program thesis. Sijin is expected to graduate early 2025 and currently is searching for a PhD position.
+I supervised a master student, Sijin Chen, on his master program thesis. Sijin submitted his thesis on 12.05.2025 and currently is searching for a PhD position.
